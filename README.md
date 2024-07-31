@@ -19,7 +19,7 @@ This application helps you manage mentors and students efficiently. You can crea
 
 ## Render URL:
 
-- **Render URL**:
+- **Render URL**:`https://mentor-student-mgmnt-cwg1.onrender.com`
 
 ### Endpoints:
 
@@ -80,7 +80,7 @@ npm run dev
 - backend:
 
 ```bash
-cd backendend
+cd backend
 npm run dev
 ```
 
